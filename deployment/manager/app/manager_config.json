@@ -1,0 +1,11 @@
+{
+  "realms": {
+    "default": {
+      "appTitle": "Met3r Management",
+      "styles": ":host > * {--or-app-color2: #F9F9F9; --or-app-color3: #22211f; --or-app-color4: #1b5630; --or-app-color5: #CCCCCC;}",
+      "logo": "/images/logo.png",
+      "logoMobile": "/images/logo-mobile.png",
+      "favicon": "/images/favicon.png"
+    }
+  }
+}
